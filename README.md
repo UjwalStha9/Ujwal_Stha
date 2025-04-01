@@ -14,4 +14,4 @@
 - 🌱 I’m currently learning **Javascript**
 
 <h1>Why I Want to Join the Developer's Community</h1>
-<h3>I want to join the developer's community to learn and expand my skills and knowledge in software development. Also i want to deal with real life problems.</h3>
+<h3>I want to join the developer's community to learn and expand my skills and knowledge in software development. Also I want to deal with real life problems.</h3>
