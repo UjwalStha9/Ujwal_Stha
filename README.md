@@ -9,6 +9,8 @@
 - Music
 
 <h1>My Skills</h1>
+- 🌐 Web Development: HTML, CSS<br>
+- ♨️ Programming Language: Java<br>
 - 🌱 I’m currently learning **Javascript**
 
 <h1>Why I Want to Join the Developer's Community</h1>
